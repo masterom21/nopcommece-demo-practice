@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 17.376 s <<< FAILURE! - in TestSuite
+verifyErrorMessageWithInvalidCredentials(com.nopcommerce.demo.testsuite.LoginPageTest)  Time elapsed: 0.023 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.nopcommerce.demo.testsuite.LoginPageTest.verifyErrorMessageWithInvalidCredentials(LoginPageTest.java:34)
+
+verifyUserShouldNavigateToLoginPage(com.nopcommerce.demo.testsuite.LoginPageTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.nopcommerce.demo.testsuite.LoginPageTest.verifyUserShouldNavigateToLoginPage(LoginPageTest.java:26)
+

@@ -1,0 +1,21 @@
+2021-12-11 16:12:447 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 16:12:494 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (113bca0e3e9c2b7e7d478a7a04f2acc7)] -> link text: Log in]
+2021-12-11 16:12:636 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (113bca0e3e9c2b7e7d478a7a04f2acc7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-11 18:12:385 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 18:12:170 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c51756730c6ceda198d38ab793677bb4)] -> link text: Log in]
+2021-12-11 18:12:254 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (c51756730c6ceda198d38ab793677bb4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-11 18:12:66 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-11 18:12:662 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ce1350eb063e2f365a5914ce920f83f4)] -> link text: Log in]
+2021-12-11 18:12:754 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (ce1350eb063e2f365a5914ce920f83f4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-18 17:12:240 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-18 17:12:255 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3b7d3d79ef05f2ae59e56850395891f9)] -> link text: Log in]
+2021-12-18 17:12:339 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (3b7d3d79ef05f2ae59e56850395891f9)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-18 17:12:709 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-18 17:12:64 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a36f73c6bbf0d7f501404f9a751ea3e4)] -> link text: Log in]
+2021-12-18 17:12:125 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (a36f73c6bbf0d7f501404f9a751ea3e4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-18 17:12:922 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-18 17:12:514 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (52812a7fd2d90f431258bf6419718110)] -> link text: Log in]
+2021-12-18 17:12:572 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (52812a7fd2d90f431258bf6419718110)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-18 17:12:70 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-18 17:12:391 INFO  HomePage :38 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5eaee05a22a411ea264ff317f5eba607)] -> link text: Log in]
+2021-12-18 17:12:458 INFO  LoginPage :45 -  Getting Welcome message from :[[ChromeDriver: chrome on WINDOWS (5eaee05a22a411ea264ff317f5eba607)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
